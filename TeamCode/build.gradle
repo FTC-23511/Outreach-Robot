@@ -33,10 +33,7 @@ dependencies {
     implementation "org.solverslib:core:SNAPSHOT-7cdcc66" // core
     implementation "org.solverslib:pedroPathing:SNAPSHOT-7cdcc66"
     implementation "com.bylazar:docs:1.0.3"
-    implementation "com.bylazar:opmodecontrol:1.0.1"
-    implementation "com.bylazar:field:1.0.2"
-    implementation "com.bylazar:graph:1.0.1"
-    implementation "com.bylazar:telemetry:1.0.1"
+    implementation "com.bylazar:fullpanels:1.0.3"
 }
 
 repositories {
