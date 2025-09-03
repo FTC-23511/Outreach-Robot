@@ -16,8 +16,8 @@
             <goBILDA5202SeriesMotor name="extension" port="3"/>-->
 
             <ControlHubImuBHI260AP name="imu" port="0" bus="0"/>
-            <RevColorSensorV3 name="colorSensor" port="0" bus="1"/>
-            <goBILDAPinpoint name="pinpoint" port="0" bus="2"/>
+            <RevColorSensorV3 name="colorSensor" port="0" bus="2"/>
+            <goBILDAPinpoint name="pinpoint" port="0" bus="1"/>
 
         </LynxModule>
     </LynxUsbDevice>
